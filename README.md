@@ -14,3 +14,5 @@ Run _example_ctshow_pma_colormap_full.m_
 **Resulted image**:
 ![Example Output](https://github.com/yxiao009/Display_PMA_Colormaps/blob/master/results/result.jpg?raw=true)
 
+**PMA**
+[Source Page of PMA](http://asist.umin.jp/index-e.htm).
