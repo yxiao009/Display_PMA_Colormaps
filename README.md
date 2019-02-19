@@ -2,7 +2,7 @@
 
 Assume we already calculated the perfusion maps through some methods. Let’s call the generated perfusion maps as CBF and CBV (2D matrix).
 
-**Requirements**: (everything is in the folder _/Display_PMA_Colormaps_Yao_) 
+**Requirements**: (everything is in the folder _/Display_PMA_Colormaps_) 
 - Full PMA Color Lookup Table (CLT) from PMA software, _PMA_lut.csv_
 - Function _select_colormap.m_  % select the PMA colormap that you want to display 
 - Function _ctshow_pma.m_       % display images with defined colormap
