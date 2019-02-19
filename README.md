@@ -12,3 +12,5 @@ Example:
 Run example_ctshow_pma_colormap_full.m
 
 Resulted image:
+![Example Output](https://github.com/yxiao009/Display_PMA_Colormaps/blob/master/results/result.jpg?raw=true)
+
